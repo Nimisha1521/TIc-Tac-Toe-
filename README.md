@@ -21,7 +21,7 @@ This is a simple and interactive Tic Tac Toe (XO) game built using HTML, CSS, an
 4. Click "Restart" to play again.
 
 🌐 Live Demo:
-(Replace this line with your GitHub Pages link after hosting)
+link will be uploaded soon....
 
 📂 Run Locally:
 - Download or clone the repository
